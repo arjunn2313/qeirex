@@ -3,10 +3,10 @@ import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
 
 function HeroSection() {
   return (
-    <header className="hero-section bg-gradient-to-b from-[#2a2a2a] to-[#1a1a1a] text-[#cddfbd] py-10 flex-grow flex items-center">
+    <header className="hero-section bg-gradient-to-b from-[#2a2a2a] to-[#1a1a1a]  py-10 flex-grow flex items-center">
       <div className="container mx-auto text-center">
-        <h1 className="text-4xl md:text-6xl font-bold animate-fadeInUp">Qeirex</h1>
-        <p className="mt-2 text-lg md:text-xl animate-pulse">
+        <h1 className="text-4xl md:text-6xl font-bold animate-fadeInUp text-[#cddfbd]">Qeirex</h1>
+        <p className="mt-2 text-lg md:text-xl animate-pulse text-white">
        We are coming soon 
 </p>
 
