@@ -7,7 +7,7 @@ function HeroSection() {
       <div className="container mx-auto text-center">
         <h1 className="text-4xl md:text-6xl font-bold animate-fadeInUp text-[#cddfbd]">Qeirex</h1>
         <p className="mt-2 text-lg md:text-xl animate-pulse text-white">
-       We are coming soon 
+       We are coming soon !
 </p>
 
 
